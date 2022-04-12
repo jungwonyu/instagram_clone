@@ -57,7 +57,7 @@ document.addEventListener("DOMContentLoaded", function (e) {
 
     profile_pic.addEventListener("click", function (e) {
       // 클릭 이벤트 처리
-      profile_pic.setAttribute("src", prompt("dlalwl url을 입력해 주세요 🥰"));
+      profile_pic.setAttribute("src", prompt("이미지 url을 입력해 주세요 🥰"));
     });
   });
 });
